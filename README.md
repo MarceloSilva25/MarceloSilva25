@@ -13,6 +13,8 @@ Algumas das tecnologias que utilizo:
   <img align="center" alt="Rafa-Node.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node.js/nodejs-original.svg">
   <img align="center" alt="Rafa-Node.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node.js/nodejs-original.svg">
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <i class="devicon-nodejs-plain-wordmark"></i>
+          
           
   </div>
   
