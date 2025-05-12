@@ -25,7 +25,3 @@ Algumas das tecnologias que utilizo:
   
 </div>
 
-
- <div>
-   <img src="https://raw.githubusercontent.com/MarceloSilva25/gitrepo/output/snake.svg" alt="Snake animation" />
- </div>
