@@ -24,4 +24,8 @@ Algumas das tecnologias que utilizo:
   <a href="https://www.linkedin.com/in/marcelo-martins-silva2507/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
- 
+
+
+ <div>
+   <img  align="center" src="https://raw.githubusercontent.com/MarceloSilva25/gitrepo/output/snake.svg" alt="Snake animation" />
+ </div>
