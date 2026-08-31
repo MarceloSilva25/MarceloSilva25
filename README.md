@@ -1,7 +1,30 @@
 ## Olá, Me chamo Marcelo
 
-Sou estudando de Analise e desenvolvimento de sistemas e um apaixonado por programação. Aqui demonstro todos os meus projetos e ideias que tenho durante essa caminhada. <br>
-Fique a vontade para explorar o quando quiser.
+**Desenvolvedor Back-End Java**
+**Focado em desenvolvimento de sistemas**
+
+Atualmente estou desenvolvendo projetos práticos para aprimorar minhas habilidades em desenvolvimento de software, com foco em **Java, lógica de programação, Programação Orientada a Objetos e desenvolvimento Back-End**.
+
+## Tecnologias e conhecimentos
+
+* Java
+* Programação Orientada a Objetos
+* Lógica de Programação
+* Banco de Dados
+* APIs REST
+* Spring Boot
+* Git e GitHub
+
+## 🎯 Objetivo
+
+Construir uma carreira como **desenvolvedor Back-End**, aprofundando meus conhecimentos em Java e criando soluções para problemas reais através da programação.
+
+Este perfil reúne projetos, experimentos e minha evolução no desenvolvimento de software.
+
+---
+
+⭐ Explore meus repositórios e acompanhe minha evolução!
+
 
 
 Algumas das tecnologias que utilizo:
